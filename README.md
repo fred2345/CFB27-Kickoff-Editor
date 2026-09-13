@@ -20,6 +20,9 @@ IMPORTANT:
 - Never use your only copy of a Dynasty save as the selected file.
 - v1.0 only changes kickoff TimeOfDay data. Do not expect it to edit other
   Dynasty settings.
+             
+             ****NOTE****
+THIS TOOL DOES NOT WORK ON CLOUD SAVED GAMES
 
 ============================================================
 1. WHAT YOU NEED
