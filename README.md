@@ -50,6 +50,9 @@ and make sure Node.js/npm are added to PATH.
 During Python installation, enable:
 [✓] Add Python to PATH
 
+****NOTE****
+THIS TOOL DOES NOT WORK ON CLOUD SAVED GAMES
+
 ============================================================
 2. INSTALL / PREPARE THE TOOL
 ============================================================
