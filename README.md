@@ -1,5 +1,11 @@
 # CFB27-Kickoff-Editor
 This tool allows you to edit your kickoff times and WILL have the correct lighting for whatever time you chose
+
+============================================================
+FUTURE UPDATES
+
+As of now the editor is a side project during weekends as of this moment V1.1 is still in the works and will include vegas odds, where games are streaming and the ability to change rankings based on YOUR criteria similar to the dynasty tool for CFBR. I am hoping to have some kind of beta version for V1.1 out by Christmas but it will all depend on how much time i have to actually work on it. 
+
 ============================================================
 CFB 27 GAME TIME EDITOR v1.0
 COMPLETE SETUP + USAGE INSTRUCTIONS
@@ -352,7 +358,3 @@ For experienced users:
 7. Enter the new kickoff time.
 8. Wait for validation to finish.
 9. Test the edited save in CFB 27.
-============================================================
-FUTURE UPDATES
-
-As of now the editor is a side project during weekends as of this moment V1.1 is still in the works and will include vegas odds, where games are streaming and the ability to change rankings based on YOUR criteria similar to the dynasty tool for CFBR. I am hoping to have some kind of beta version for V1.1 out by Christmas but it will all depend on how much time i have to actually work on it. 
